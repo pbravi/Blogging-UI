@@ -1,5 +1,5 @@
 # Blogging UI
-#### UI client that consumes Bloggin WebAPI (https://github.com/pbravi/blogging.git)
+#### UI client that consumes [Bloggin WebAPI](https://github.com/pbravi/blogging.git)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
