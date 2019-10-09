@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Usage
 Run `ng serve` to restore packages
-Ensure to have a valid api url in environment.ts file
+Ensure to have a valid api url in `environment.ts` file
 
 ## Development server
 
