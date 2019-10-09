@@ -1,5 +1,5 @@
 # BLOGGING Platform
-### Blogging UI Client
+### UI Client
 **Available functions:**
 - List posts
 - Get post by id
