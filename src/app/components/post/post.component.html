@@ -1,0 +1,5 @@
+<h1>{{post.title}}</h1>
+<hr>
+<p>{{post.body}}</p>
+<p><small class="text-muted">{{post.autor}} - {{post.creationDate | date:'short'}}</small></p>
+<a [routerLink]="['/posts']" class="btn btn-outline-primary">Regresar</a>
