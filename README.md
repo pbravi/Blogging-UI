@@ -1,3 +1,4 @@
+# BLOGGING Platform
 ### Blogging UI Client
 **Available functions:**
 - List posts
