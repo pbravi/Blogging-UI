@@ -11,6 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Usage
 Run `npm install` to restore packages
 Ensure to have a valid api url in `environment.ts` file
+Run `ng serve --o` to run a dev server
 
 ## Development server
 
